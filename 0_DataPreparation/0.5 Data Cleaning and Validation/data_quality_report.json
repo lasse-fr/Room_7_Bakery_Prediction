@@ -1,0 +1,9 @@
+{
+  "total_records": 11164,
+  "total_features": 50,
+  "date_range": "2013-07-01 00:00:00 to 2019-07-30 00:00:00",
+  "duplicates": "0",
+  "overall_completeness": "93.06%",
+  "training_completeness": "95.43%",
+  "missing_value_columns": 25
+}
