@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-https://github.com/your_username/your_project_name
+https://github.com/lasse-fr/Room_7_Bakery_Prediction
 
 ## Description
 
@@ -14,15 +14,15 @@ Regression
 
 ### Results Summary
 
--   **Best Model:** [Name of the best-performing model]
+-   **Best Model:** Time Model Bias Correction per Warengruppe
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
-    -   **Bread** (1): [XX]%
-    -   **Rolls** (2): [XX]%
-    -   **Croissant** (3): [XX]%
-    -   **Confectionery** (4): [XX]%
-    -   **Cake** (5): [XX]%
-    -   **Seasonal Bread** (6): [XX]%
+    -   **Bread** (1): 40.03%
+    -   **Rolls** (2): 26.44%
+    -   **Croissant** (3): 19.87%
+    -   **Confectionery** (4): 48.49%
+    -   **Cake** (5): 16.71%
+    -   **Seasonal Bread** (6): 64.77%
 
 ## Documentation
 
